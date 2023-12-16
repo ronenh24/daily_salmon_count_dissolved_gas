@@ -1,3 +1,6 @@
+# Author
+Ronen H
+
 # Data Source
 The individual daily adult salmon counts for Chinook, Coho, and Sockeye species at Bonneville Dam from 2012 to 2022 can be accessed via [https://www.cbr.washington.edu/dart/query/adult_daily](https://www.cbr.washington.edu/dart/query/adult_daily).  
 
